@@ -132,6 +132,7 @@ This project demonstrates strong fundamentals in:
 - Weighted nodes
 - Multiple heuristic comparisons
 - Performance metrics overlay
+- To apply this in a real application like a game
 
 ---
 
