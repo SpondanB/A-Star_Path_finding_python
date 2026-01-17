@@ -54,6 +54,11 @@ This implementation guarantees the shortest path on a grid with uniform movement
 
 ---
 
+## Example of the output result
+![output](/img/example_output.png)
+
+---
+
 ## 📁 File Structure
 ```text
 astar_visualizer/
